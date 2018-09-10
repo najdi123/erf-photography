@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="258d94e0-e154-4a78-b135-51d747b3d44f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.a6583a39.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.a6583a39.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.08fee633.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.08fee633.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/010.7ba34c4a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/011.9e5176d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/013.a1841120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/015.f7796ea1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/016.c3a5dc28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/017.e7ee4456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/03.b39562ff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/04.42b400af.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/05.347c8bf7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/06.6ed7dcdc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/07.4892e52c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/08.e46652be.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/12.7c182f00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/optimized-studio-wide-1500x630.d66614d3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (1).40e30e84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (1).4b711f6d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (1).7b2cf649.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (1).a1b36326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (1).f810f66a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (1).fc3fc181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (10).35b4ae5d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (10).7c146ce8.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (10).ae1bcc71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (10).cff15335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (10).d9c16e90.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (10).dd0f67b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (11).1019a763.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (11).3dbc26d9.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (11).595ba110.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (11).707b9399.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (11).72a08410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (11).7a8e0c06.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (11).c1fb8519.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (12).304429c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (12).73299c43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (12).a81ae90a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (12).ee604663.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (12).f92197ab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (12).fbc914e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (13).4741b9fd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (13).8526510f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (13).8817c8f0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (13).bd9e7191.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (13).cf77064f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (13).d3eb1449.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (13).ec72db9f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (14).4b61261a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (14).7c9f3116.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (14).ace95edc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (14).d3257416.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (14).e6e51c1b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (15).1b3f5863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (15).54b82327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (15).61718b69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (15).c015d26f.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (15).f0d7e07d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (16).33bdb60f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (16).51d2f777.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (16).7a4dbca9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (16).e3195659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (16).fa71c3a4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (17).24f7665b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (17).348293b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (17).5fd238cc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (17).a338f8f6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (17).f9708b34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (18).1cf3a18d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (18).55301daa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (18).929e5228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (18).97574f55.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (19).6d010760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (19).8f901590.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (19).eefe4b31.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (19).f5fb47f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (2).03df3eb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (2).4cb75ba8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (2).66aa1777.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (2).bfb2ee8a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (2).ea9ad3a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (2).f74d3f06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (20).2859c6b0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (20).3938cbc9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (20).7c3084d4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (20).7cfa6691.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (21).637cea34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (21).9c54b256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (21).ee3d0a67.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (21).f088b603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (22).538de002.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (22).823ea333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (22).f2f92af0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (22).fc54e78d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (23).aafc76f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (23).b94c98f7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (23).c1bd347e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (23).d381b65c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (24).1f7f9950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (24).3bcecaa5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (24).f7647075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (25).19cf2ff2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (25).c33ced64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (25).d8cfcde3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (26).0de3c5f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (26).6532e10c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (26).f4cf417e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (27).074aa753.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (27).6b68a001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (27).e462ca3f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (28).70e4604f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (28).abc1661b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (28).ec72db9f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (29).8fb89787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (3).2b4be28f.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (3).4f57bbf7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (3).7232e810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (3).7b2cf649.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (3).946ec135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (3).b0e91b17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (3).fc3fc181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (30).fbfe0b64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (31).e37502d6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (32).e8334825.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (33).a94d7e57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (34).bff53641.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (35).2f87ed8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (36).69857677.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (37).f7157c74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (38).b3dc8f0c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (39).c35524f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (4).08f4bd55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (4).0e9e0067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (4).60c10cd4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (4).63219d98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (4).8cfef3f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (4).cc8a8365.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (40).08414637.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (41).77e802a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (42).36a1adcd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (43).36f18c1b.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (44).51c827fe.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (45).4f017094.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (46).82f0027b.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (47).28ead8ef.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (48).60f509eb.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (5).04277c6a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (5).29462436.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (5).a369a181.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (5).c7914d1a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (5).ef7a68ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (5).f1be2b37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (6).03828f78.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (6).2b43f0ba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (6).3e95dde6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (6).5c68efbd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (6).8fb89787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (6).965544b4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (6).fb7faedc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (7).13c237d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (7).17e6c0f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (7).3077ce45.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (7).308826e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (7).8d621787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (7).c900c0bc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (8).2a45f365.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (8).384c2bc0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (8).9deae314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (8).bd186499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (8).dc7253ec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (8).ec766edc.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (9).0114fd81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (9).3c4cee00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (9).782fdcfa.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (9).8d621787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (9).979670cd.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (9).a1750519.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/pic (9).ccc0c15a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/worksans.f21091be.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/worksansbold.037d8304.woff2" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2131974817">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/js/main.08fee633.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="430" />
+    <option name="y" value="197" />
+    <option name="width" value="864" />
+    <option name="height" value="668" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="build" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="build" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="build" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="258d94e0-e154-4a78-b135-51d747b3d44f" name="Default Changelist" comment="" />
+      <created>1536583309754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536583309754</updated>
+      <workItem from="1536583311355" duration="660000" />
+      <workItem from="1536612547154" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13615334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/js/main.08fee633.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
